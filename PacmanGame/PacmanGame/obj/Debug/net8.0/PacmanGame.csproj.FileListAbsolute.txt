@@ -1,0 +1,14 @@
+C:\Users\79969\source\repos\PacmanGame\PacmanGame\bin\Debug\net8.0\PacmanGame.exe
+C:\Users\79969\source\repos\PacmanGame\PacmanGame\bin\Debug\net8.0\PacmanGame.deps.json
+C:\Users\79969\source\repos\PacmanGame\PacmanGame\bin\Debug\net8.0\PacmanGame.runtimeconfig.json
+C:\Users\79969\source\repos\PacmanGame\PacmanGame\bin\Debug\net8.0\PacmanGame.dll
+C:\Users\79969\source\repos\PacmanGame\PacmanGame\bin\Debug\net8.0\PacmanGame.pdb
+C:\Users\79969\source\repos\PacmanGame\PacmanGame\obj\Debug\net8.0\PacmanGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79969\source\repos\PacmanGame\PacmanGame\obj\Debug\net8.0\PacmanGame.AssemblyInfoInputs.cache
+C:\Users\79969\source\repos\PacmanGame\PacmanGame\obj\Debug\net8.0\PacmanGame.AssemblyInfo.cs
+C:\Users\79969\source\repos\PacmanGame\PacmanGame\obj\Debug\net8.0\PacmanGame.csproj.CoreCompileInputs.cache
+C:\Users\79969\source\repos\PacmanGame\PacmanGame\obj\Debug\net8.0\PacmanGame.dll
+C:\Users\79969\source\repos\PacmanGame\PacmanGame\obj\Debug\net8.0\refint\PacmanGame.dll
+C:\Users\79969\source\repos\PacmanGame\PacmanGame\obj\Debug\net8.0\PacmanGame.pdb
+C:\Users\79969\source\repos\PacmanGame\PacmanGame\obj\Debug\net8.0\PacmanGame.genruntimeconfig.cache
+C:\Users\79969\source\repos\PacmanGame\PacmanGame\obj\Debug\net8.0\ref\PacmanGame.dll
